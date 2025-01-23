@@ -1,5 +1,5 @@
 # Oracle Next Education (ONE) - Curso de HTML e CSS
-
+![alt text](image.png)
 ## Sobre o Projeto
 
 Este repositório foi criado para documentar minha experiência e aprendizado no curso de **HTML e CSS**, oferecido pelo programa **Oracle Next Education (ONE)** em parceria com a **Alura**. O objetivo principal é compartilhar o conhecimento adquirido, apresentar os projetos desenvolvidos e incentivar outras pessoas a explorarem o mundo da tecnologia.
