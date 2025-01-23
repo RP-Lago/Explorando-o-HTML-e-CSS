@@ -1,0 +1,73 @@
+/* Reset básico */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Fundo preto */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-content {
+    max-width: 600px;
+    margin-right: 20px;
+}
+
+.text-content h1 {
+    font-size: 2.5rem;
+    line-height: 1.4;
+}
+
+.text-content h1 span {
+    color: #00d4ff; /* Azul brilhante */
+}
+
+.text-content p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.btn.instagram {
+    background-color: #ff007f;
+}
+
+.btn.github {
+    background-color: #00d4ff;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.image-content img {
+    max-width: 400px;
+    border-radius: 10px;
+    border: 2px solid #00d4ff;
+}
