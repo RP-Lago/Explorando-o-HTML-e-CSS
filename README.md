@@ -1,6 +1,3 @@
-Aqui está o README atualizado com os novos desenvolvimentos que você aprendeu:
-
-```markdown
 # Oracle Next Education (ONE) - Curso de HTML e CSS
 ![alt text](image.png)
 
@@ -65,6 +62,3 @@ O curso faz parte do programa ONE, uma iniciativa que visa capacitar pessoas em 
 ## Minha Experiência
 
 Minha experiência ao realizar este curso foi extremamente positiva. O que mais gostei foi a **versatilidade do Flexbox**, que me permitiu criar layouts organizados e responsivos com facilidade. A abordagem prática e os desafios propostos me ajudaram a consolidar o aprendizado e a aplicar os conceitos em cenários reais. Este curso foi um grande passo na minha jornada no mundo da tecnologia, reforçando minha paixão por desenvolvimento web e ampliando minhas perspectivas profissionais.
-```
-
-Caso precise de mais personalizações ou ajustes, é só pedir! 😊
