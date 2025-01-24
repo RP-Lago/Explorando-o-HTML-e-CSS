@@ -1,0 +1,102 @@
+/* style.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header, footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.text-content {
+  max-width: 600px;
+  
+}
+
+.titulo-blog {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #333;
+}
+
+.titulo-blog span {
+  color: #007BFF;
+}
+
+.text-content p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #666;
+  text-align: justify;    /* Alinhamento justificado */
+}
+
+.texto-destaque {
+  color: #007BFF;
+  font-weight: bold;
+}
+
+.urgente {
+  color: rgb(255, 68, 0);
+  font-weight: bold !important; /* !important para sobrescrever o estilo */;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #007BFF;
+  border-radius: 15px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.btn.linkedin {
+  background-color: #0077B5;
+}
+
+.btn.linkedin:hover {
+  background-color: #005582;
+}
+
+.btn.github {
+  background-color: #333;
+}
+
+.btn.github:hover {
+  background-color: #000;
+}
+
+.image-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
